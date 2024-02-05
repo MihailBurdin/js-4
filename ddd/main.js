@@ -1,23 +1,23 @@
-// task 1
+// Задание 1
 
 // let arr = ['Привет', "мир", "!"]
 // let result = arr[0] + ', ' + arr[1] + arr[2]
 // alert(result);
 
-// task 2
+// Задание 2
 
 // let arr = ['Привет', "мир", "!"]
 // let text = arr[0] + ', ' + arr[1] + arr[2]
 // alert(text);
 
-// // task 3
+// Задание 3
 
 // let arr = ['Привет', "мир", "!"]
 // arr[0] = 'Пока'
 // let result = arr[0] + ', ' + arr[1] + arr[2]
 // alert(result);
 
-// // task 4
+// Задание 4
 // let obj = [
 //     { name: 'Vasya', money: 30000},
 //     { name: 'Petya', money: 20000} 
@@ -27,7 +27,7 @@
 //     alert(obj[i].name + ', Зарплата ' + obj[i].money);
 // }
 
-// // task 5
+// Задание 5
 
 // var arr = {
 //     'ru': ['голубой', 'краный', "зеленый"],
@@ -36,12 +36,12 @@
 
 // alert(arr.ru[1])
 
-// // task 6
+// Задание 6
 
 // let arr = ['a', 'b', 'c']
 // alert(arr);
 
-// // task 7
+// Задание 7
 
 // let arr = ['a', 'b', 'c']
 
@@ -49,28 +49,28 @@
 //     alert(arr[i]);
 // }
 
-// // task 8
+// Задание 8
 
 // let arr = ['a', 'b', 'c', 'd']
 // let result1 = arr[0] + arr[1]
 // let result2 = arr[2] + arr[3]
 // alert(result1 + ', ' + result2 + ".")
 
-// // task 9
+// Задание 9
 // arr = [2, 5, 3, 9];
 // let act1 = arr[0] * arr[1]
 // let act2 = arr[2] * arr[3]
 // let result = act1 + ', ' + act2 + ".";
 // alert(result);
 
-// // task 10
+// Задание 10
 
 // let obj = {a: 1, b: 2, c: 3};
 
 // alert(obj['c']);
 // alert(obj.c);
 
-// // task 11
+// Задание 11
 
 // obj = {
 //     Коля: '1000', 
@@ -80,7 +80,7 @@
 
 // alert('Зарплата Пети: ' + obj.Петя + ', ' + 'Зарплата Коли: ' + obj.Коля + '.')
 
-// // task 12
+// Задание 12
 
 // let days = {
 //     1: 'Понедельник',
@@ -98,7 +98,7 @@
   
 //   alert(`Сегодня ${currentDay}`);
 
-// // task 13
+// Задание 13
 
 // let days = {
 //     1: 'Понедельник',
@@ -115,7 +115,7 @@
   
 //   alert(currentDay);
 
-// // task 14
+// Задание 14
 
 // let arr =  [ 
 // [1, 2, 3], 
@@ -124,7 +124,7 @@
 
 // alert(arr[1][0])
 
-// // task 15
+// Задание 15
 
 // let obj = {
 //     js:['jQuery', 'Angular'], 
@@ -133,7 +133,7 @@
 
 // alert(obj.js[0]);
 
-// // task 16
+// Задание 16
 
 // let days = [
 //     ['Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота', 'Воскресенье'],
@@ -146,17 +146,15 @@
 //  alert(ru);
 //  alert(en); 
 
-// task 17
+// Задание 17
 
-
-
-let days = {
-    'ru': ['Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота', 'Воскресенье'],
-    'en': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
-  };
+// let days = {
+//     'ru': ['Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота', 'Воскресенье'],
+//     'en': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+//   };
   
-  let lang = 'ru';
-  let day = 3;
+//   let lang = 'ru';
+//   let day = 1;
   
-  let dayName = days[lang][day];
- alert(dayName);
+//   let dayName = days[lang][day];
+//  alert(dayName);
